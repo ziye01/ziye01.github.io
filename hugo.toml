@@ -1,6 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ziye01.github.io/'
 languageCode = 'zh-CN'
 title = '我的博客'
-
-# ✅ 关键：指定主题
 theme = 'ananke'
