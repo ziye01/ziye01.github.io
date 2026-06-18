@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on 我的博客</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on 我的博客</description>
+		<generator>Hugo</generator>
+		<language>zh-CN</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 18 Jun 2026 09:47:06 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>欢迎光临！</title>
+				<link>http://localhost:1313/posts/hello-world/</link>
+				<pubDate>Thu, 18 Jun 2026 09:47:06 +0800</pubDate>
+				<guid>http://localhost:1313/posts/hello-world/</guid>
+				<description>&lt;h2 id=&#34;-欢迎来到我的博客&#34;&gt;🎉 欢迎来到我的博客！&lt;/h2&gt;&#xA;&lt;p&gt;你好！欢迎来到我的个人博客空间。这里是：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🚀 分享技术心得与项目经验&lt;/li&gt;&#xA;&lt;li&gt;📚 记录学习笔记与思考感悟&lt;/li&gt;&#xA;&lt;li&gt;🔧 探索嵌入式开发、STM32、FreeRTOS 等领域的知识&lt;/li&gt;&#xA;&lt;li&gt;💡 与志同道合的朋友交流进步&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;很高兴你能来到这里，希望这里的文章能为你带来启发与帮助！&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;让我们一起在技术的海洋中乘风破浪吧！&lt;/strong&gt; 🌊&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

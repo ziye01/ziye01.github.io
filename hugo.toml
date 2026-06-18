@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-CN'
+title = '我的博客'
+
+# ✅ 关键：指定主题
+theme = 'ananke'
